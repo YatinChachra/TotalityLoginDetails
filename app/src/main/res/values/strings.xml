@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TotalityLoginDetails</string>
+    <string name="showListButton">Show List Of Credentials</string>
+    <string name="refreshButton">Refresh</string>
+</resources>
